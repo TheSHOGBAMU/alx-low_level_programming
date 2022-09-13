@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*declare the various types of data and print out their values in bytes*/
 int main(void)
 {
     int integerType;

@@ -1,19 +1,10 @@
-include <stdio.h>
-
-
+#include <stdio.h>
 
 /**
-
- * main - print the data wrap in the string followed by a new line
-
+ * main - prints phrase
+ * Return: returns 0
  */
-
-int main(void)
-
-{
-
-    printf("with proper grammar, but the outcome is a piece of art,\n");
-
-    return (0);
-
+int main(void){
+	printf("with proper grammer, but the outcome is a piece of art, \n");
+	return (0);
 }
